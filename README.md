@@ -1,1 +1,2 @@
-# ECommerceDocker
+# ECommerce
+Ecommerce Microservices Demo
